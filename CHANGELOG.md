@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- Standardize package.json configuration
+
 ## 0.1.1
 
 - Add CI workflow
