@@ -1,11 +1,11 @@
 # @philiprehberger/http-status
 
-[![CI](https://github.com/philiprehberger/ts-http-status/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-http-status/actions/workflows/publish.yml)
+[![CI](https://github.com/philiprehberger/ts-http-status/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-http-status/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@philiprehberger/http-status)](https://www.npmjs.com/package/@philiprehberger/http-status)
 
-Typed HTTP status codes, reason phrases, and classification helpers for TypeScript.
+Typed HTTP status codes, reason phrases, and classification helpers for TypeScript
 
-## Install
+## Installation
 
 ```bash
 npm install @philiprehberger/http-status
