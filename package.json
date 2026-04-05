@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/http-status",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Typed HTTP status codes, reason phrases, and classification",
   "type": "module",
   "main": "./dist/index.cjs",

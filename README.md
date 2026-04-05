@@ -1,8 +1,8 @@
 # @philiprehberger/http-status
 
-[![CI](https://github.com/philiprehberger/http-status/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/http-status/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-http-status/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-http-status/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/http-status.svg)](https://www.npmjs.com/package/@philiprehberger/http-status)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/http-status)](https://github.com/philiprehberger/http-status/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-http-status)](https://github.com/philiprehberger/ts-http-status/commits/main)
 
 Typed HTTP status codes, reason phrases, and classification helpers for TypeScript
 
@@ -62,11 +62,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/http-status)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-http-status)
 
-🐛 [Report issues](https://github.com/philiprehberger/http-status/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-http-status/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/http-status/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-http-status/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
